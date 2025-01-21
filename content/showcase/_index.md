@@ -1,6 +1,8 @@
-+++
-date = '2025-01-20T16:33:00-08:00'
-draft = true
-title = 'Showcase'
-+++
+---
+title: Showcase
+toc: false
+#sidebar:
+    #exclude: true
+---
+
 Coming soon!

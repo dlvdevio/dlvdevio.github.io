@@ -1,8 +1,8 @@
 ---
 title: Contact
 toc: false
-sidebar:
-    exclude: true
+#sidebar:
+    #exclude: true
 ---
 
 ### Email

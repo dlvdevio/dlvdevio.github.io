@@ -1,8 +1,8 @@
 ---
 title: About
 toc: false
-sidebar:
-    exclude: true
+#sidebar:
+    #exclude: true
 ---
 
 Dennis Vu is an experienced, well-versed IT professional with knowledge in spearheading project design and implementation of many technology initiatives. Dennis has worked at businesses in every stage, from venture-backed startups to mid-sized growth companies and well-regarded corporations across the country.
