@@ -31,7 +31,7 @@ layout: hextra-home
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Consultations We Offer
+  Our Expertise
 {{< /hextra/hero-subtitle >}}
 </div>
 
