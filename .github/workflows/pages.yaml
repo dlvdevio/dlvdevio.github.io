@@ -67,7 +67,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: "https://dlvdevio.github.io/"
+      url: "https://dlvdev.io/"
     runs-on: ubuntu-latest
     needs: build
     steps:
