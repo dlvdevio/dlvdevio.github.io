@@ -3,10 +3,6 @@ title: Dennis Vu
 layout: hextra-home
 ---
 
-{{< hextra/hero-badge >}}
-  <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
-  <span>Accepting clients!</span>
-
 {{< /hextra/hero-badge >}}
 
 <div class="hx-mt-6 hx-mb-6">
@@ -17,7 +13,7 @@ layout: hextra-home
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Let us build your IT operations from zero to one or bring your business to the modern era &nbsp;<br class="sm:hx-block hx-hidden" />using cutting-edge hardware and software without the hassle of overseas, inexperienced services.
+  Let Dennis build your IT operations from zero to one or bring your business to the modern era &nbsp;<br class="sm:hx-block hx-hidden" />using cutting-edge hardware and software while delivering impact to stakeholders across your team.
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -31,7 +27,7 @@ layout: hextra-home
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Our Expertise
+  My Expertise
 {{< /hextra/hero-subtitle >}}
 </div>
 
