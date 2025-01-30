@@ -11,11 +11,7 @@ layout: hextra-home
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-<<<<<<< Updated upstream
   Let Dennis build your IT operations from zero to one or bring your business to the modern era &nbsp;<br class="sm:hx-block hx-hidden" />using cutting-edge hardware and software while delivering impact to stakeholders across your team.
-=======
-  Let Dennis build your IT operations from zero to one or bring your business to the modern era &nbsp;<br class="sm:hx-block hx-hidden" />using cutting-edge hardware and software without the hassle of overseas, inexperienced services.
->>>>>>> Stashed changes
 {{< /hextra/hero-subtitle >}}
 </div>
 
