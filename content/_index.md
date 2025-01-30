@@ -3,11 +3,6 @@ title: Dennis Vu
 layout: hextra-home
 ---
 
-<<<<<<< Updated upstream
-{{< /hextra/hero-badge >}}
-
-=======
->>>>>>> Stashed changes
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
   Efficient, effective, and elegant&nbsp;<br class="sm:hx-block hx-hidden" />modern technology operations.
