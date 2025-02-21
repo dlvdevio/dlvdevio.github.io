@@ -32,10 +32,6 @@ enableInlineShortcodes: true
 
 menu:
   main:
-    - identifier: showcase
-      name: Showcase
-      pageRef: /showcase
-      weight: 1
     - identifier: blog
       name: About
       pageRef: /about

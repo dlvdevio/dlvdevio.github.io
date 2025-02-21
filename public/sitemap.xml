@@ -13,6 +13,12 @@
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
   </url><url>
+    <loc>http://localhost:1313/showcase/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tolls/tollschedule/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tolls/</loc>
   </url>
 </urlset>

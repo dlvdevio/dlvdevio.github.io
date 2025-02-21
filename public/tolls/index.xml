@@ -15,7 +15,7 @@
     
     
     <item>
-      <title>Showcase</title>
+      <title>Toll Schedules</title>
       <link>http://localhost:1313/tolls/tollschedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -23,29 +23,7 @@
       <description>
         
         
-        &lt;h2&gt;Toll Schedules&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;toll-schedules&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#toll-schedules&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://www.google.com/jsapi&#34;&gt;&lt;/script&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt;
-
-  // https://google,developers.appspot.com/chart/interactive/docs/spreadsheets#gid
-  google.load(&#39;visualization&#39;, &#39;1&#39;, {packages: [&#39;corechart&#39;, &#39;line&#39;]});
-  google.setOnLoadCallback(drawChart);
-
-  function drawChart() {
-    // Add your sheets url and range below
-    var spreadsheetUrl = &amp;quot;https://docs.google.com/spreadsheets/d/1el4UMq3bxq0-CEvtjlnp3hYhpPhplmIXSUT6jITLq9Q/edit?range=A1&amp;quot;;
-    var query = new google.visualization.Query(spreadsheetUrl);
-    query.send(handleQueryResponse);
-  }
-
-  function handleQueryResponse(response) {
-    var dataTable = response.getDataTable();
-    // https://developers.google.com/chart/interactive/docs/reference?hl=en#methods
-    // getValue(rowIndex, columnIndex)
-    document.getElementById(&amp;quot;test&amp;quot;).innerHTML = dataTable.getValue(0, 0);
-  }
-&amp;lt;/script&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+        &lt;iframe src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vSRz49IbtiNs9MiplnIsp3XD0M2PJALZDjCxCVkoIVZL3OdnA79QyOe-O31u3xgFHgBy8YSj8PYps5j/pubhtml?gid=736078383&amp;single=true&amp;amp;widget=false&amp;amp;chrome=false&amp;amp;headers=false&#34; width=&#34;375&#34; height=&#34;210&#34;&gt;&lt;/iframe&gt;
 
       </description>
     </item>
