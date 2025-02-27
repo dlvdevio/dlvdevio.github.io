@@ -128,6 +128,18 @@ In-ceiling speakers and beamforming microphones installed discretely in drop cei
 Centralized network room with networking infrastructure, speaker amplification, wireless microphone receivers, Crestron control systems, digital signage host devices, Dante digital signal processors, AVoIP and HDBaseT video transmission systems, Zoom Rooms soft codec host devices, and far-end USB bridging devices on lithium ion battery backup.
 </em>
 
+### Europe Offices
+
+#### Technologies
+- Neat Board
+- Neat Pulse remote device monitoring
+
+#### Gallery
+<img src="wn-av-ber-01.jpg">
+<em>Neat Board with stand deployed at lounge area for new office in Berlin, Germany.
+<img src="wn-av-ldn-01.jpg">
+Neat Board with stand being set up at new office in London, United Kingdom.</em>
+
 ## FIGS
 
 ### Santa Monica Headquarters
