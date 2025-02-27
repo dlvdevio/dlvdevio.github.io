@@ -67,6 +67,11 @@ layout: hextra-home
     link="/Vu_Dennis_Resume_public.pdf"
   >}}
   {{< hextra/feature-card
+    title="Showcase"
+    subtitle="Some audiovisual deployments throughout my career."
+    link="/showcase"
+  >}}
+  {{< hextra/feature-card
     title="LinkedIn"
     subtitle="Let's connect."
     link="https://linkedin.com/in/dennisvu/"

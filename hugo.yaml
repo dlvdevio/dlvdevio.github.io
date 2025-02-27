@@ -32,6 +32,10 @@ enableInlineShortcodes: true
 
 menu:
   main:
+    - identifier: showcase
+      name: Showcase
+      pageRef: /showcase
+      weight: 1
     - identifier: blog
       name: About
       pageRef: /about
@@ -101,7 +105,7 @@ params:
       tokenize: forward
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/dlvdevio/web/"
 
   blog:
